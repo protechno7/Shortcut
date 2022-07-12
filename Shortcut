@@ -33,5 +33,5 @@ Search HTML
 Social Icon HTML
 
 <!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"service":"twitter"} /--></ul>
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"twitter.com","service":"twitter"} /--></ul>
 <!-- /wp:social-links -->
