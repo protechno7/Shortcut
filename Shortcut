@@ -3,3 +3,14 @@ List HTML
 <!-- wp:list -->
 <ul><li></li></ul>
 <!-- /wp:list -->
+
+
+Table HTML
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
