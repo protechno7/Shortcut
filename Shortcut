@@ -28,3 +28,10 @@ Buttons HTML
 Search HTML
 
 <!-- wp:search {"label":"Search","buttonText":"Search"} /-->
+
+
+Social Icon HTML
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"service":"twitter"} /--></ul>
+<!-- /wp:social-links -->
