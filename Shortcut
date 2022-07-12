@@ -14,3 +14,11 @@ Table HTML
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+
+
+Buttons HTML
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button /--></div>
+<!-- /wp:buttons -->
